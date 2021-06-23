@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yaminim1/email-sign.git/static/css/main.c84545bf.chunk.css",
+    "main.js": "/yaminim1/email-sign.git/static/js/main.3d280fce.chunk.js",
+    "main.js.map": "/yaminim1/email-sign.git/static/js/main.3d280fce.chunk.js.map",
+    "runtime-main.js": "/yaminim1/email-sign.git/static/js/runtime-main.a730537c.js",
+    "runtime-main.js.map": "/yaminim1/email-sign.git/static/js/runtime-main.a730537c.js.map",
+    "static/js/2.a43433cd.chunk.js": "/yaminim1/email-sign.git/static/js/2.a43433cd.chunk.js",
+    "static/js/2.a43433cd.chunk.js.map": "/yaminim1/email-sign.git/static/js/2.a43433cd.chunk.js.map",
+    "static/js/3.0c9377eb.chunk.js": "/yaminim1/email-sign.git/static/js/3.0c9377eb.chunk.js",
+    "static/js/3.0c9377eb.chunk.js.map": "/yaminim1/email-sign.git/static/js/3.0c9377eb.chunk.js.map",
+    "index.html": "/yaminim1/email-sign.git/index.html",
+    "static/css/main.c84545bf.chunk.css.map": "/yaminim1/email-sign.git/static/css/main.c84545bf.chunk.css.map",
+    "static/js/2.a43433cd.chunk.js.LICENSE.txt": "/yaminim1/email-sign.git/static/js/2.a43433cd.chunk.js.LICENSE.txt",
+    "static/media/facebook.11196a20.png": "/yaminim1/email-sign.git/static/media/facebook.11196a20.png",
+    "static/media/twitter.d4f1de9b.png": "/yaminim1/email-sign.git/static/media/twitter.d4f1de9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a730537c.js",
+    "static/js/2.a43433cd.chunk.js",
+    "static/css/main.c84545bf.chunk.css",
+    "static/js/main.3d280fce.chunk.js"
+  ]
+}
